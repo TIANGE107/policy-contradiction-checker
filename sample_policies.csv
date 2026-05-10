@@ -1,0 +1,13 @@
+policy_id,policy_text,known_issues
+P001,"Meals under $50 are reimbursable. Alcohol is not reimbursable. Group meals are allowed.","threshold boundary for $50 unclear|group meal alcohol itemization gap"
+P002,"Requests must be submitted within 7 days. Late submissions may be considered.","late submission criteria missing|7 day boundary unclear"
+P003,"Only full-time students are eligible. Exceptions may apply.","exception criteria missing|approval owner missing"
+P004,"Employees may work remotely when appropriate. Managers must approve remote work requests.","ambiguous appropriate term|approval criteria missing"
+P005,"Travel expenses over $500 require approval. Travel expenses are generally reimbursable.","threshold boundary unclear|ambiguous generally term"
+P006,"Contractors are not eligible for training funds. All team members may request training funds.","possible contradiction contractor vs all team members"
+P007,"Receipts should be submitted soon after purchase. Reimbursement is available for reasonable business expenses.","ambiguous soon term|ambiguous reasonable term"
+P008,"Students below 12 credits are not eligible. Part-time students may receive benefits with approval.","possible contradiction part-time eligibility|approval criteria missing"
+P009,"Equipment purchases up to $200 are covered. Equipment purchases above $200 require manager approval.","$200 boundary unclear"
+P010,"Employees can use company vehicles. Employees must not use company vehicles for personal travel.","personal travel exception or scope clarification needed"
+P011,"Refund requests are reviewed case-by-case. Customers must provide documentation.","case-by-case criteria missing"
+P012,"Meals under $30 are covered. Meals over $30 are not covered. Meals for client events may be covered.","client event exception missing approval criteria|$30 boundary unclear"
